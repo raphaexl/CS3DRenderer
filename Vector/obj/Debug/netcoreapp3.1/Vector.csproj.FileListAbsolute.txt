@@ -1,0 +1,11 @@
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\bin\Debug\netcoreapp3.1\Vector.exe
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\bin\Debug\netcoreapp3.1\Vector.deps.json
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.json
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.dev.json
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\bin\Debug\netcoreapp3.1\Vector.dll
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\bin\Debug\netcoreapp3.1\Vector.pdb
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\obj\Debug\netcoreapp3.1\Vector.csprojAssemblyReference.cache
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfoInputs.cache
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfo.cs
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\obj\Debug\netcoreapp3.1\Vector.dll
+C:\Users\Elite\Documents\Sublime\Csharp\Practice\Maths\Vector\obj\Debug\netcoreapp3.1\Vector.pdb
